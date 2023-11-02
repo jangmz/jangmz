@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on developing a web app
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jan-jankovi%C4%8D-03429b247)
 
