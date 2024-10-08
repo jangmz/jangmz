@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan
-- 👀 I’m interested in Web Development (Full Stack JS)
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in developing Web Applications
+- 🌱 I’m currently learning NodeJS (Express) with PostgreSQL
 - 💞️ I’m looking to collaborate on developing any kind of web application
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jan-jankovi%C4%8D-03429b247)
 
