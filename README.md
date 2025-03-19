@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jan
-- 👀 I’m interested in developing Web Applications
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on developing any kind of web application
+- 👀 I’m interested in helping people organize and improve their lives with applications.
+- 🌱 I’m currently creating full-stack web applications with NextJS.
+- 💞️ I’m looking to collaborate with people who are working on any kind of sport/nutrition application.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jan-jankovi%C4%8D-03429b247)
 
 <!---
